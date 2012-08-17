@@ -3,8 +3,11 @@ Hallo test
 Höhö!
 
 jawohl
+<<<<<<< HEAD
 
 heyho!
 heyho!
 
 tötö pöpö
+=======
+>>>>>>> parent of e2f11ec... heyho
